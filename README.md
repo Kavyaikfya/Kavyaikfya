@@ -29,10 +29,8 @@
 **Tools**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-## 📊 GitHub Stats:
 
-![Kavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kavyaikfya&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kavyaikfya&layout=compact&theme=radical)
+## 📊 GitHub Stats:
 ![GitHub Streak](https://streak-stats.demolab.com?user=Kavyaikfya&theme=radical)
 
 ---
